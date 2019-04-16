@@ -1,4 +1,5 @@
 # teachinggit
 olatunde Oladeni
 Houston, Texas,
-testing, QA elenium
+testing, QA Selenium
+Using Atom
