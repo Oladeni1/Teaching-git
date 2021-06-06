@@ -1,12 +1,6 @@
 ## Teaching git and github
-olatunde Oladeni
+Olatunde Oladeni
 Houston, Texas, USA
-
-## Logo
-https://www.google.com/imgres?imgurl=https%3A%2F%2Flawtomated.com%2Fwp-content%2Fuploads%2F2017%2F07%2Fgithub-logo.png&imgrefurl=https%3A%2F%2Flawtomated.com%2Fopen-source-contracts-part-1%2Fgithub-logo%2F&tbnid=8N75RXOALo1VlM&vet=12ahUKEwjgrv3xzoPxAhUFZRoKHQMXDBMQMygXegUIARD6AQ..i&docid=6er-BiqYi8C3tM&w=2000&h=665&q=github%20logo&safe=strict&ved=2ahUKEwjgrv3xzoPxAhUFZRoKHQMXDBMQMygXegUIARD6AQ
-
-https://www.google.com/imgres?imgurl=https%3A%2F%2Fcdn.freebiesupply.com%2Flogos%2Fthumbs%2F2x%2Fgit-logo.png&imgrefurl=https%3A%2F%2Ffreebiesupply.com%2Flogos%2Fgit-logo%2F&tbnid=AJKqZQfs10F7WM&vet=12ahUKEwjgrv3xzoPxAhUFZRoKHQMXDBMQMyg4egQIARBf..i&docid=0J0YWbOH0SerZM&w=800&h=600&q=github%20logo&safe=strict&ved=2ahUKEwjgrv3xzoPxAhUFZRoKHQMXDBMQMyg4egQIARBf
-
 
 ### Git Commands:
 
